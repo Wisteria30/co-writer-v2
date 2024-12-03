@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
+    "monaco-languageclient": "^8.8.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "vscode-languageserver-protocol": "^3.17.5",
+    "vscode-languageserver-types": "^3.17.5",
+    "vscode-ws-jsonrpc": "^3.3.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
